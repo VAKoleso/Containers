@@ -9,7 +9,7 @@
 2. [Реализация](#реализация)
 
 
-![Сontainers](misc\images\Containers.png)
+![Сontainers](misc/images/Containers.png)
 
 
 ## Описание
