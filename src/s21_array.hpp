@@ -1,5 +1,5 @@
-#ifndef SRC_ARRAY_HPP_
-#define SRC_ARRAY_HPP_
+#ifndef SRC_S21_ARRAY_HPP_
+#define SRC_S21_ARRAY_HPP_
 
 namespace s21 {
 template <class T, size_t size_>
@@ -98,4 +98,4 @@ class array {
 };
 }  // namespace s21
 
-#endif  // SRC_ARRAY_HPP_
+#endif  // SRC_S21_ARRAY_HPP_
