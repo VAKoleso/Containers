@@ -6,7 +6,7 @@
 ## Contents
 
 1. [Описание](#описание)
-2. [Реализация библиотеки containers.h](#реализация библиотеки containers.h и containersplus.h)
+2. [Реализация библиотеки containers.h](#реализация библиотеки containers.h)
 
 
 ![Сontainers](misc/images/Сontainers.png)
