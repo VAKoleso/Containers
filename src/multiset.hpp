@@ -1,15 +1,15 @@
-#ifndef SRC_S21_MULTISET_HPP_
-#define SRC_S21_MULTISET_HPP_
+#ifndef SRC_MULTISET_HPP_
+#define SRC_MULTISET_HPP_
 
 #include <initializer_list>
 
-#include "s21_set.hpp"
+#include "set.hpp"
 
 namespace s21 {
 
 template <class Key>
 class multiset : public set<Key> {
-#include "s21_set_using.inc"
+#include "set_using.inc"
   using set<Key>::set;
 
  public:
@@ -22,4 +22,4 @@ class multiset : public set<Key> {
 
 }  //  namespace s21
 
-#endif  // SRC_S21_MULTISET_HPP_
+#endif  // SRC_MULTISET_HPP_

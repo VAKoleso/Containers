@@ -1,7 +1,7 @@
-#ifndef SRC_S21_STACK_HPP_
-#define SRC_S21_STACK_HPP_
+#ifndef SRC_STACK_HPP_
+#define SRC_STACK_HPP_
 
-#include "s21_list.hpp"
+#include "list.hpp"
 
 namespace s21 {
 template <typename T>
@@ -53,4 +53,4 @@ class stack {
 };
 }  // namespace s21
 
-#endif  // SRC_S21_STACK_HPP_
+#endif  // SRC_STACK_HPP_

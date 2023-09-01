@@ -1,16 +1,16 @@
-#ifndef SRC_S21_SET_HPP_
-#define SRC_S21_SET_HPP_
+#ifndef SRC_SET_HPP_
+#define SRC_SET_HPP_
 
 #include <initializer_list>
 
-#include "s21_btree.hpp"
-#include "s21_vector.hpp"
+#include "btree.hpp"
+#include "vector.hpp"
 
 namespace s21 {
 
 template <class Key>
 class set {
-#include "s21_set_using.inc"
+#include "set_using.inc"
 
  protected:
   btree<Key, Key> tree;
@@ -87,4 +87,4 @@ class set {
 
 }  //  namespace s21
 
-#endif  // SRC_S21_SET_HPP_
+#endif  // SRC_SET_HPP_

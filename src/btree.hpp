@@ -1,5 +1,5 @@
-#ifndef SRC_S21_BTREE_HPP_
-#define SRC_S21_BTREE_HPP_
+#ifndef SRC_BTREE_HPP_
+#define SRC_BTREE_HPP_
 
 #include <climits>
 #include <initializer_list>
@@ -91,4 +91,4 @@ class btree {
 
 }  //  namespace s21
 
-#endif  // SRC_S21_BTREE_HPP_
+#endif  // SRC_BTREE_HPP_

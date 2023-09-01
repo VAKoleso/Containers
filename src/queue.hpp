@@ -1,7 +1,7 @@
-#ifndef SRC_S21_QUEUE_HPP_
-#define SRC_S21_QUEUE_HPP_
+#ifndef SRC_QUEUE_HPP_
+#define SRC_QUEUE_HPP_
 
-#include "s21_list.hpp"
+#include "list.hpp"
 
 namespace s21 {
 template <typename T>
@@ -55,4 +55,4 @@ class queue {
 };
 }  // namespace s21
 
-#endif  // SRC_S21_QUEUE_HPP_
+#endif  // SRC_QUEUE_HPP_

@@ -1,5 +1,5 @@
-#ifndef SRC_S21_MAP_HPP_
-#define SRC_S21_MAP_HPP_
+#ifndef SRC_MAP_HPP_
+#define SRC_MAP_HPP_
 
 namespace s21 {
 template <typename Key, typename T>
@@ -523,4 +523,4 @@ void map<Key, T>::copy(typename map<Key, T>::Node *cp) {
 
 }  // namespace s21
 
-#endif  // SRC_S21_MAP_HPP_
+#endif  // SRC_MAP_HPP_

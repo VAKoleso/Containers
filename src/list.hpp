@@ -1,5 +1,5 @@
-#ifndef SRC_S21_LIST_HPP_
-#define SRC_S21_LIST_HPP_
+#ifndef SRC_LIST_HPP_
+#define SRC_LIST_HPP_
 
 namespace s21 {
 
@@ -530,4 +530,4 @@ typename list<T>::const_iterator list<T>::clast_elem() {
 
 }  // namespace s21
 
-#endif  // SRC_S21_LIST_HPP_
+#endif  // SRC_LIST_HPP_
