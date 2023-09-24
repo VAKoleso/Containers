@@ -2,6 +2,9 @@
 
 Реализация библиотеки Сontainers.h. (Собственная реализация библиотеки STL)
 
+Групповой проект выполнен совместно с: \
+  [Victor](https://github.com/xerminia) \
+  [Alexey Batyuta](https://github.com/tszechwa)
 
 ## Содержание
 
